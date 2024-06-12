@@ -1,10 +1,11 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View, TextInput} from "react-native";
 
 
-export default function App() {
+export default function newtask() {
   return (
     <View>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>newtask</Text>
+      <TextInput></TextInput>
     </View>
   );
 }
