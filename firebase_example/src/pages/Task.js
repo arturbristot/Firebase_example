@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
     width: "100%",
     height: 2,
     backgroundColor: "#121212",
+    opacity: 0.2,
     marginVertical: 13,
   },
   textTask: {
